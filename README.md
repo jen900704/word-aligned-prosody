@@ -1,6 +1,6 @@
 # Word-aligned prosody reflects speaker differences more than depression or PTSD severity
 
-Analysis code for the paper by Hsiang-Chen Yeh, Aurosweta Mahapatra, Shreeram Suresh Chandra, Ryan L. Boyd and Berrak Sisman (submitted to ICASSP 2027; preprint: arXiv link to be added).
+Analysis code for the paper by Hsiang-Chen Yeh, Aurosweta Mahapatra, Shreeram Suresh Chandra, Ryan L. Boyd and Berrak Sisman (preprint: arXiv link to be added).
 
 The paper asks whether a prosodic value aligned to one word is a stable property of the speaker, and whether speaker-level summaries of such values track depression (PHQ-8) or PTSD severity (PCL). It uses four corpora: ESD and MSP-Podcast for the stability questions (RQ1), and DAIC-WOZ and PTSD-STOP for the clinical questions (RQ2).
 
@@ -80,7 +80,7 @@ The suite runs on synthetic data. On Linux with Python 3.12 and without PyTorch,
   title  = {Word-Aligned Prosody Reflects Speaker Differences More Than Depression or {PTSD} Severity},
   author = {Yeh, Hsiang-Chen and Mahapatra, Aurosweta and Suresh Chandra, Shreeram and Boyd, Ryan L. and Sisman, Berrak},
   year   = {2026},
-  note   = {Submitted to ICASSP 2027}
+  note   = {Preprint}
 }
 ```
 
