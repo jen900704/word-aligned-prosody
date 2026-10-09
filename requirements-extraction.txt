@@ -1,0 +1,11 @@
+# Environment used for DAIC-WOZ extraction and analysis and for the test suite. Python 3.12.
+numpy==2.5.2
+pandas==3.0.5
+scipy==1.18.1
+patsy==1.0.3
+statsmodels==0.15.0
+soundfile==0.14.0
+torch==2.8.0
+torchaudio==2.8.0
+pytest==9.1.1
+# The post hoc Praat F0 check (posthoc_sensitivity/esd_postreview_extract_v1.py) also needs praat-parselmouth.

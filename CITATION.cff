@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Word-aligned prosody reflects speaker differences more than depression or PTSD severity"
+authors:
+  - family-names: Yeh
+    given-names: Hsiang-Chen
+  - family-names: Mahapatra
+    given-names: Aurosweta
+  - family-names: Suresh Chandra
+    given-names: Shreeram
+  - family-names: Boyd
+    given-names: Ryan L.
+  - family-names: Sisman
+    given-names: Berrak
+license: MIT
+repository-code: "https://github.com/jen900704/word-aligned-prosody"

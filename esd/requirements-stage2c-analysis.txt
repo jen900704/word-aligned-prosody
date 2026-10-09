@@ -1,0 +1,6 @@
+# Frozen Stage-2C analysis environment; never installed for Stage-2A/2B.
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.3
+patsy==1.0.2
+statsmodels==0.14.6

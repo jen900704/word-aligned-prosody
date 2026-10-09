@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# data, resources and run outputs never belong in this repository
+data/
+work/
+resources/
+*PRIVATE*
+*.wav
+*.out

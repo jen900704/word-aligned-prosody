@@ -1,0 +1,2 @@
+# Stage 1 uses Python >=3.9 standard library only. Stage 2A uses the verified
+# read-only cluster baseline environment directly. It installs nothing.

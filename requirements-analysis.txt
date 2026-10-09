@@ -1,0 +1,7 @@
+# Mixed-model environment used for the ESD estimator (esd/esd_reml_reliability.py),
+# MSP-Podcast Gate M, and the post hoc refits. Python 3.11/3.12.
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.3
+patsy==1.0.2
+statsmodels==0.14.6
