@@ -14,3 +14,7 @@ authors:
     given-names: Berrak
 license: MIT
 repository-code: "https://github.com/jen900704/word-aligned-prosody"
+identifiers:
+  - type: url
+    value: "https://arxiv.org/abs/2610.15181"
+    description: "arXiv preprint"
